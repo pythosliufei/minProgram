@@ -1,0 +1,31 @@
+.my_title{
+  display: flex;
+  align-items: center;
+  padding: 10rpx;
+  background-color: aliceblue;
+}
+.log{
+  flex: 7;
+}
+.search_icon{
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.use_icon{
+  flex: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+.down_app{
+  flex: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  background-color: pink;
+  color: aliceblue;
+  border-radius: 10rpx;
+  padding: 10rpx;
+}
